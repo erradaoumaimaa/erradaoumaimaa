@@ -5,8 +5,6 @@
 - 🏫 I'm a student at [@YouCodeSchool](https://github.com/YouCodeSchool)
 
 
-- :telescope: I’m currently working on <strong>Wiki™</strong>
-
 ### 💻 Tech & Tools Preference
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,java,git)](https://skills.thijs.gg)
 
