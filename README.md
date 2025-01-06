@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **an innovative moving service platform**
+🔭 I'm currently working on an innovative **moving service platform**
  
  🌱 I'm currently learning **Spring Security, Docker, Angular**
 
