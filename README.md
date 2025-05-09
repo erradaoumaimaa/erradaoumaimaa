@@ -13,9 +13,6 @@
  🌱 I'm currently learning **Spring Security, Docker, Angular**
 
  💬 Ask me about **Java, Spring Boot, Angular, React... or anything [here](https://github.com/erradaoumaimaa/erradaoumaimaa/issues)**
-
- ⚡ Fun fact **Code is like humor. When you have to explain it, it's bad 😅**
- 
  </div>
 
 <div align="center"> 
